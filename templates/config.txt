@@ -14,7 +14,8 @@
                 "class": "${DB_CLASS}",
                 "username": "${DB_USER}",
                 "bundleName": "${DB_BUNDLENAME}",
-                "bundleVersion": "${DB_BUNDLEVERSION}"
+                "bundleVersion": "${DB_BUNDLEVERSION}",
+                "type": "${DB_TYPE}"
             }
         }
     }
